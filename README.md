@@ -1,6 +1,7 @@
 I replicated the results shown on Fig. 1, Fig. 2 and eq. 2 on the paper "Macroscopic description for networks of spiking neurons" by Ernest Montbrió Diego Pazó and Alex Roxin, as part of a final project for a Nonlinear Dynamics course @ Universidad de Buenos Aires.
 
 ![The system of equations for the firing rate and mean membrane potential](https://github.com/ttdduu/montbrio_paper_replication/assets/70667629/faf90ab0-d8d5-40fa-ad3f-992632cc6bbe)
+
 *The system of equations for the firing rate and mean membrane potential*
 
 
