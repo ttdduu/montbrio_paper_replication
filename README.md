@@ -2,11 +2,11 @@ I replicated the results shown on Fig. 1, Fig. 2 and eq. 2 on the paper "Macrosc
 
 ![The system of equations for the firing rate and mean membrane potential](https://github.com/ttdduu/montbrio_paper_replication/assets/70667629/faf90ab0-d8d5-40fa-ad3f-992632cc6bbe)
 
-*The system of equations for the firing rate and mean membrane potential*
+*Screenshot from the manuscript: the system of equations for the firing rate and mean membrane potential*
 
 
 ![a: Parameter space (phase diagram), b and c: bifurcation diagrams for J=15 and d: phase portrait of the system](https://github.com/ttdduu/montbrio_paper_replication/assets/70667629/35d1e78e-61cb-43e0-9eeb-dc0e78e2fb30)
-*a: Parameter space (phase diagram), b and c: bifurcation diagrams for J=15 and d: phase portrait of the system*
+*Screenshot from the manuscript: a: Parameter space (phase diagram), b and c: bifurcation diagrams for J=15 and d: phase portrait of the system*
 
 Eq. 12 describes a system of two ordinary differential equations for the firing rate and mean membrane potential of neuronal networks of heterogeneous, all-to-all coupled quadratic integrate-and-fire (QIF) neurons, which are the canonical model of a Hodkin-Huxley neuron of class 1 excitability, in which a resting state disappears through a saddle-node bifurcation.
 
