@@ -12,4 +12,10 @@ Eq. 12 describes a system of two ordinary differential equations for the firing 
 
 In this notebook I'll be exploring parameter space of eq. 12 by having studied its fixed points and therefore the parameter values for which this dynamical system is near bifurcation points: spiral-node and saddle-node transitions. The following video allows for an intuition of the regimes the mean membrane potential and firing rate can acquire when forced by a sinusoidal current injection, which in turn yields v(t) and r(t); the mean membrane potential and firing rate.
 
-https://github.com/ttdduu/montbrio_paper_replication/assets/70667629/2a7cc50a-904c-45e9-990e-a74e0e3f3291
+![jjh](https://github.com/ttdduu/montbrio_paper_replication/assets/70667629/0ea5ac50-4b53-427c-b3b9-326a84172945)
+
+
+
+
+
+
